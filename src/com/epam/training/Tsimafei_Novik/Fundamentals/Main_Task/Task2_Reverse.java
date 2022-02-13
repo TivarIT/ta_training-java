@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Task2_Reverse {
     //2. Отобразить в окне консоли аргументы командной строки в обратном порядке.
     public static void main(String[] args) {
-        /*Если под "аргументами" понимается значения в параметре args, то Arg1 Arg2 Arg3 это наши аргументы ф-ции main
+        /*Если под "аргументами" понимается значения в параметре args, то Arg1 Arg2 Arg3 это наши аргументы функции main
         for(int i = args.length - 1; i >= 0; i--)
             System.out.print(args[i] + " "); //Arg3 Arg2 Arg1
          */
