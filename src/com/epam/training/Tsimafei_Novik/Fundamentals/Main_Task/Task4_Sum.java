@@ -20,6 +20,6 @@ public class Task4_Sum {
             default:
                 System.out.println("Incorrect value! Type '1' or '2'.");
         }
-        }
+    }
 }
 
